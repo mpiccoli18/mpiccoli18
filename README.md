@@ -1,5 +1,5 @@
 # 💫 Hi all, I'm Marco!
-### MSc student in Computer Engineering, IT&Telemetry at @eagletrt
+### MSc student in Computer Engineering, IT&Telemetry at [@eagletrt](https://github.com/eagletrt)
 🔭 I’m currently working on:
 
 - The [Autonomous Software Agents project](https://github.com/mpiccoli18/ASA-project)
