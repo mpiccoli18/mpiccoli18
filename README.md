@@ -4,6 +4,7 @@
 
 - The [Autonomous Software Agents project](https://github.com/mpiccoli18/ASA-project)
 - The [Simulation and Perfomance Evaluation project](https://github.com/mpiccoli18/spe-homework-project)
+- The [Fog and Cloud Computing project](https://github.com/mpiccoli18/FCC-Project)
 - The Telemetry application.
 
 📫 How to reach me [mpiccoli18@gmail.com](mailto:mpiccoli18@gmail.com).
