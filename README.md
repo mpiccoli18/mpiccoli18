@@ -2,10 +2,9 @@
 ### MSc student in Computer Engineering, IT&Telemetry at [@eagletrt](https://github.com/eagletrt)
 🔭 I’m currently working on:
 
-- The [Autonomous Software Agents project](https://github.com/mpiccoli18/ASA-project)
+- The Process Mining and Management project
 - The [Simulation and Perfomance Evaluation project](https://github.com/mpiccoli18/spe-homework-project)
-- The [Fog and Cloud Computing project](https://github.com/mpiccoli18/FCC-Project)
-- The Telemetry application.
+- The Telemetry application @eagletrt.
 
 📫 How to reach me [mpiccoli18@gmail.com](mailto:mpiccoli18@gmail.com).
 
