@@ -1,9 +1,9 @@
 # 💫 Hi all, I'm Marco!
-### MSc student in Computer Engineering, IT&Telemetry at [@eagletrt](https://github.com/eagletrt)
+### MSc student in Computer Science, IT&Telemetry at [@eagletrt](https://github.com/eagletrt)
 🔭 I’m currently working on:
 
 - My future;
-- The Telemetry application @eagletrt.
+- The Telemetry application [@eagletrt](https://github.com/eagletrt)
 
 📫 How to reach me [mpiccoli18@gmail.com](mailto:mpiccoli18@gmail.com).
 
