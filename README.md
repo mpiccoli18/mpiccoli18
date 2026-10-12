@@ -3,7 +3,7 @@
 🔭 I’m currently working on:
 
 - My future;
-- The Telemetry application [@eagletrt](https://github.com/eagletrt)
+- [CATCH THE MARK](https://github.com/mpiccoli18/flagthemark): challenge for the course of Deepfake Detection.
 
 📫 How to reach me [mpiccoli18@gmail.com](mailto:mpiccoli18@gmail.com).
 
